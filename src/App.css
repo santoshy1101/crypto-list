@@ -1,5 +1,5 @@
 .crypto-list .crypto-card {
-  border: 1px solid violet;
+  border: 1px dashed violet;
   margin-bottom: 10px;
 }
 
